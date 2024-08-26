@@ -1,0 +1,1 @@
+import{d as n,o as t,b as a,x as s,A as o}from"../modules/vue-CBPEKPct.js";import{u as r}from"./context-BCTB6xcH.js";const i=n({__name:"SlidesTotal",setup(_){const{$nav:e}=r();return(c,p)=>(t(),a("span",null,s(o(e).total),1))}}),m=n({__name:"SlideCurrentNo",setup(_){const{$page:e}=r();return(c,p)=>(t(),a("span",null,s(o(e)),1))}});export{m as _,i as a};
