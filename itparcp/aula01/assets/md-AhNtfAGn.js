@@ -1,4 +1,0 @@
-import{o,c as s,k as l,e,q as u,s as i,B as n}from"./modules/vue-DRX4njMG.js";import{a as p}from"./default-C8NagOJ7.js";import{u as m,f as d}from"./slidev/context-CojKsDQl.js";import"./index-DXC1LSyM.js";import"./modules/shiki-1EDlywvT.js";const h={__name:"aula01.md__slidev_14",setup(c){const{$slidev:_,$nav:f,$clicksContext:r,$clicks:$,$page:g,$renderContext:x,$frontmatter:t}=m();return r.setup(),(P,a)=>(o(),s(p,u(i(n(d)(n(t),13))),{default:l(()=>a[0]||(a[0]=[e("h1",null,"Conteúdo Programático",-1),e("hr",null,null,-1),e("p",null,"● Arquitetura de Von Neumann:",-1),e("pre",null,[e("code",null,`  - Barramento;
-  - Organização de Memória Interna e Externa;
-  - Dispositivos de Entrada e Saída;
-`)],-1),e("p",null,"● Processadores;",-1),e("p",null,"● Conjunto de Instruções de máquina;",-1),e("p",null,"● Linguagem de Montagem;",-1),e("p",null,"● Paralelismo;",-1),e("p",null,"● Pipeline.",-1)])),_:1},16))}};export{h as default};
